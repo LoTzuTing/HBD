@@ -209,9 +209,19 @@ button:hover {
     color: #FFFFFF;
 }
 .agileinfo-social-grids ul li a i.fa.fa-instagram:hover{
-	border: solid 2px #55acee;
-	background:#55acee;
-	color: #FFFFFF;
+	background: #2ebaef;
+    line-height: 40px;
+    color: #FFF;
+    border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-o-border-radius: 50%;
+	-ms-border-radius: 50%;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
 }
 .agileinfo-social-grids ul li a i.fa.fa-rss:hover{
 	border: solid 2px #f26522;
@@ -457,7 +467,7 @@ button:hover {
 .agileits-timer {
     width: 80%;
 }
-.agileinfo-social-grids ul li a i.fa.fa-facebook, .agileinfo-social-grids ul li a i.fa.fa-twitter, .agileinfo-social-grids ul li a i.fa.fa-rss, .agileinfo-social-grids ul li a i.fa.fa-vk {
+.agileinfo-social-grids ul li a i.fa.fa-facebook, .agileinfo-social-grids ul li a i.fa.fa-instagram, .agileinfo-social-grids ul li a i.fa.fa-rss, .agileinfo-social-grids ul li a i.fa.fa-vk {
     width: 40px;
     height: 40px;
     margin: 6px;

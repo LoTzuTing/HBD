@@ -289,11 +289,11 @@ ul.social-icons li {
 	color:#fff;
 	transition:0.5s ease-in;
 }
-.social-icons i.fa.fa-google-plus {
+.social-icons i.fa.fa-play-circle-o {
     
         color: #fff;
 }
-.social-icons i.fa.fa-google-plus:hover{
+.social-icons i.fa.fa-play-circle-o:hover{
 	background:#dd4b39;
 	color:#fff;
 	transition:0.5s ease-in;

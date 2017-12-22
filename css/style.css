@@ -244,7 +244,7 @@ img{
 /*--social-icons--*/
 .social-icons {
     width: 15%;
-    margin: 1em auto 1em;
+    margin: 1em auto 2em;
 }
 ul.social-icons li {
     list-style-type: none;
